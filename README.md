@@ -1,37 +1,50 @@
 # Hey there 👋, I'm Haseeb Hassan!
 
-🎓 **Computer Science student** at SIBA University  
-🌱 Constantly learning and improving my skills in programming and problem-solving  
-💻 Special interest in C++, Java, and building logic-driven systems and games  
-🤝 Open to collaborating on fun, meaningful, and challenging projects  
-📬 You can reach me at: **samohaseeb66@gmail.com**
+🎓 **Computer Science student** at SIBA University (2nd Semester)  
+🌱 Passionate about programming, logic-building, and turning ideas into interactive applications  
+💡 Currently building GUI-based Java applications backed by SQL databases  
+💻 Strong foundation in C++ and a growing love for clean, object-oriented design  
+🤝 Always excited to collaborate on meaningful and challenging tech projects  
+📬 Reach me at: **samohaseeb66@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools:
-C++ | Java | SQL | HTML | MySQL | VS Code
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
 ### 🎯 Currently Exploring:
-- Object-Oriented Programming (OOP) in Java
-- Building logic-based games and console applications
-- Database concepts and practicing SQL for data handling
-- Strengthening debugging and problem-solving skills
-- Starting GUI development using Java Swing and JavaFX
-- Open-source contribution opportunities
+- ☕ Object-Oriented Programming (OOP) with Java
+- 🖥️ GUI development using **Java Swing** and **AWT**
+- 🗃️ Database-backed applications using **SQL** and **MySQL**
+- 🧠 Enhancing logic-building skills through C++ projects
+- 🔍 Debugging and problem-solving across languages
+- 🌐 Learning how to contribute to open-source communities
 
 ---
 
 ### 🧠 Fun Facts About Me:
-- ⚡ Problem-solving is my zone! I enjoy breaking down complex logic and fixing bugs that most people avoid — it's like solving a good puzzle.
-- 🎮 Game logic lover — Whether it’s Ludo or a Snakes & Ladders twist, I enjoy building game mechanics from scratch using C++.
-- 🤝 Team spirit ready — I’m always open to collaborating on meaningful projects that help me grow and contribute.
-- 🧑‍💻 Consistent learner — I’m currently diving deeper into OOP, databases, and GUI with Java to take my apps beyond the console.
-- 📚 Tech explorer — I enjoy experimenting with tools and new concepts to improve my skills and explore new ideas.
+- ⚡ I treat coding problems like brain teasers — solving tricky bugs is my kind of fun.
+- 🎮 I enjoy bringing classic board games like **Ludo** and **Snakes & Ladders** to life with custom logic in C++.
+- 👨‍👦‍👦 Working in teams helps me learn faster — I thrive on collaboration and feedback.
+- 🧑‍💻 I'm building my skills one semester at a time and loving every moment of growth.
+- 💡 Exploring how front-end, backend, and logic connect to build complete systems.
 
 ---
 
 ### 📊 GitHub Stats:
 ![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=radical)
+
+---
+
+### 🚀 Let's Build Together!
+If you're working on a logic-driven project, a Java GUI app, or something database-related — let’s connect and make something awesome!
 
