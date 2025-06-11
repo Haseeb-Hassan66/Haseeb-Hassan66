@@ -12,11 +12,10 @@
 ### 🛠️ Languages & Tools:
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
@@ -32,7 +31,7 @@
 
 ### 🧠 Fun Facts About Me:
 - ⚡ I treat coding problems like brain teasers — solving tricky bugs is my kind of fun.
-- 🎮 I enjoy bringing classic board games like **Ludo** and **Snakes & Ladders** to life with custom logic in C++.
+- 🎮 I enjoy bringing games to life with custom logic in C++.
 - 👨‍👦‍👦 Working in teams helps me learn faster — I thrive on collaboration and feedback.
 - 🧑‍💻 I'm building my skills one semester at a time and loving every moment of growth.
 - 💡 Exploring how front-end, backend, and logic connect to build complete systems.
