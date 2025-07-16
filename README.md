@@ -9,13 +9,12 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
