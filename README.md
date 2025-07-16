@@ -14,7 +14,6 @@
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
