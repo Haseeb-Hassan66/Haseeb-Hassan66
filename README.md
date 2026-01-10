@@ -59,9 +59,9 @@ Contact: samohaseeb66@gmail.com
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
 
 ---
 
