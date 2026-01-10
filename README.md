@@ -56,10 +56,23 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Development Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-Hassan66&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Hassan66&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <img src="https://img.shields.io/badge/Main_Language-Java-orange?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Secondary-C%2B%2B-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Database-SQL-db7093?style=flat-square&logo=mysql" />
+
+</div>
+
+---
+
+<div align="center">
+  <p align="center">
+    <i>"Logic is the beginning of wisdom, not the end."</i>
+  </p>
 </div>
