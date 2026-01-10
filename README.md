@@ -1,71 +1,90 @@
+<div align="center">
+
 # Haseeb Hassan
+### Computer Science Undergraduate | Software Foundations | Logic-Driven Development
 
-Computer Science undergraduate at **SIBA University**
-Focused on core computer science fundamentals, structured problem-solving, and disciplined software development.  
-Experienced in academic-scale projects involving C++, Java (OOP), and database-backed systems.  
-Strong emphasis on correctness, clarity, and logic-first design rather than surface-level tooling.  
-Contact: samohaseeb66@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Java+%7C+Object-Oriented+Programming;Desktop+Applications+%7C+SQL+Databases;CS+Fundamentals+%7C+Logic+%7C+Problem+Solving;Building+Strong+Foundations+One+System+at+a+Time)
 
----
+<br>
 
-## Tech Stack
+[![Email](https://img.shields.io/badge/Email-samohaseeb66%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samohaseeb66@gmail.com)
 
-**Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Tools & Concepts**
-![Swing](https://img.shields.io/badge/Java%20Swing-2C2255?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-black?style=flat)
-![DSA](https://img.shields.io/badge/Data%20Structures-Basics-black?style=flat)
+</div>
 
 ---
 
-## Technical Competence
+## 🧠 Engineering Mindset
+I approach programming from a **fundamentals-first** perspective.  
+My focus is not on shortcuts or trends, but on understanding **how systems work**, how logic flows, and how theory translates into correct, maintainable code.
 
-- Object-Oriented Programming in Java (theory + implementation)
-- Core OOP principles: abstraction, encapsulation, inheritance, polymorphism
-- Java desktop applications with Swing/AWT and event-driven logic
-- SQL / MySQL integration for persistent data handling
-- C++ programs focused on logic, control flow, and rule-based systems
-- File handling and structured data storage
-- Debugging, output prediction, and edge-case analysis
-- Introductory data structures and algorithmic reasoning
+- Strong emphasis on **logic building and problem decomposition**
+- Comfortable working within **academic constraints and specifications**
+- Preference for **clarity, correctness, and structure**
+- Building long-term strength in software fundamentals
 
 ---
 
-## Academic & Project Work
+## 🎓 Academic Background
+**Computer Science Undergraduate — SIBA University**  
+Completed **3rd Semester**
 
-- GUI-based Java applications with modular design
-- Database-driven systems aligned with university project standards
-- Game and simulation logic implemented from scratch in C++
-- Semester projects emphasizing correctness, maintainability, and structure
-- Exam-oriented problem solving under time and logical constraints
-
----
-
-## Development Philosophy
-
-- Fundamentals before frameworks
-- Logic before syntax
-- Readability over cleverness
-- Incremental improvement through iteration and testing
-- Strong alignment between theory and implementation
+Coursework and practice have covered:
+- Programming Fundamentals (C++)
+- Object-Oriented Programming (Java)
+- Basic Data Structures
+- File Handling and Data Persistence
+- Database Concepts (SQL / MySQL)
+- GUI-based Desktop Applications
 
 ---
 
-## GitHub Analytics
-![Repos](https://img.shields.io/badge/Repos-Public-blue)
-![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20Java%20%7C%20SQL-green)
+## 🛠️ Technical Stack
+
+<div align="center">
+
+| **Core Languages** | **Concepts & Tools** | **Development Focus** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![OOP](https://img.shields.io/badge/OOP-Principles-black?style=for-the-badge) | Logic-Driven Programs |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Swing](https://img.shields.io/badge/Java_Swing-2C2255?style=for-the-badge) | Desktop Applications |
+| ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Database Integration |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![DSA](https://img.shields.io/badge/Data_Structures-Basics-black?style=for-the-badge) | Algorithmic Thinking |
+
+</div>
 
 ---
 
-## Areas of Interest
+## 🚀 Project Experience
 
-- Logic-intensive software systems
-- Desktop and academic-scale applications
-- Backend foundations and system-level thinking
-- Clean code, correctness, and long-term maintainability
+### 🖥️ Java Desktop Applications
+- GUI-based systems using **Swing & AWT**
+- Event-driven programming
+- Structured UI + backend logic separation
+- SQL-backed data storage and retrieval
+
+### 🎮 C++ Logic & Game Systems
+- Rule-based game mechanics
+- Control flow, edge-case handling
+- Score systems, turn-based logic, simulations
+- Emphasis on correctness and predictability
+
+### 📂 Data & Persistence
+- File handling for structured data
+- SQL schemas for academic-scale applications
+- Basic CRUD operations with MySQL
+
+---
+
+## 🔍 How I Work
+- Break problems into **logic → data → flow**
+- Write code meant to be **read and maintained**
+- Debug using reasoning, not trial-and-error
+- Translate theory directly into implementation
+- Improve incrementally through iteration and testing
+
+---
+
+## 📊 GitHub Overview
+*(Stats visibility depends on GitHub image proxy behavior)*
+
+```md
+https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66
