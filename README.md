@@ -58,33 +58,12 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## 📊 Engineering Metrics & Productivity
-
+## 📈 Activity & Impact
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseeb-Hassan66&theme=tokyonight" width="100%" alt="Profile Summary" />
+  <img src="https://opencast.vercel.app/Haseeb-Hassan66/skyline" width="100%" alt="Contribution Skyline" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haseeb-Hassan66&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-graph?username=Haseeb-Hassan66&theme=tokyonight" width="49%" />
-</div>
-
-<br/>
-
-### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Haseeb-Hassan66/Haseeb-Hassan66/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haseeb-Hassan66&theme=tokyonight&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA" alt="Trophies" />
-</div>
-
----
 
 <div align="center">
   <p align="center">
