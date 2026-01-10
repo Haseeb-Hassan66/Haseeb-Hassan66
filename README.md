@@ -58,6 +58,8 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-Hassan66&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
