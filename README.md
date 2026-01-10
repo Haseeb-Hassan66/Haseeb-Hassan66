@@ -60,13 +60,24 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## ⚡ Technical Velocity & Contributions
+---
+
+## ⚡ Technical Velocity & Impact
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Main_Stack-Java_%2F_C%2B%2B-36BCF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend_Systems-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Modular-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current_Focus-Backend_Systems-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Modular_%26_Scalable-36BCF7?style=for-the-badge" />
 </div>
+
+<br/>
+
+### **💻 Coding Activity**
+| Category | Metric | Status |
+| :--- | :--- | :--- |
+| **Primary Language** | Java / OpenJDK | `High Proficiency` |
+| **System Logic** | C++ / OOP | `Active Development` |
+| **Data Layer** | SQL / JDBC | `Operational` |
+| **Daily Contributions** | GitHub Activity | `Continuous Integration` |
 
 <br/>
 
@@ -76,26 +87,21 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 <br/>
 
-### 🕹️ Contribution Journey
+### **🛠️ Language Distribution**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Haseeb-Hassan66/Haseeb-Hassan66/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-85%25-orange?style=flat-square&logo=openjdk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C++-70%25-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/SQL-75%25-db7093?style=flat-square&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/HTML-40%25-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" />
 </div>
 
 ---
 
 <div align="center">
   <p align="center">
-    <code><strong>System Status:</strong> Active</code> &nbsp; | &nbsp; <code><strong>Commitment:</strong> Full-Stack Logic</code>
+    <code><strong>System Status:</strong> Operational</code> &nbsp; | &nbsp; <code><strong>Commitment:</strong> Clean Code</code>
     <br />
     <br />
-    <sub>Automated Profile Update © 2026 | Built for Performance</sub>
+    <sub>Generated Profile Insight © 2026 | Verified Developer</sub>
   </p>
 </div>
