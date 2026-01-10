@@ -56,12 +56,6 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
----
-
----
-
----
-
 ## ⚡ Technical Velocity & Impact
 
 <div align="center">
