@@ -1,6 +1,6 @@
 # Haseeb Hassan
 
-Computer Science undergraduate at **SIBA University** (completed 3rd semester)  
+Computer Science undergraduate at **SIBA University**
 Focused on core computer science fundamentals, structured problem-solving, and disciplined software development.  
 Experienced in academic-scale projects involving C++, Java (OOP), and database-backed systems.  
 Strong emphasis on correctness, clarity, and logic-first design rather than surface-level tooling.  
