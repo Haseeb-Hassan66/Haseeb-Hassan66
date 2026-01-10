@@ -58,21 +58,44 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## 📈 Platform Metrics
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Top_Language-Java-orange?style=flat-square&logo=openjdk&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Logic-C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Data-SQL-db7093?style=flat-square&logo=mysql&logoColor=white" height="25" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Hassan66&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+---
 
+## ⚡ Technical Velocity & Contributions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-Java_%2F_C%2B%2B-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend_Systems-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Modular-orange?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Hassan66&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+### 🕹️ Contribution Journey
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Haseeb-Hassan66/Haseeb-Hassan66/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>**System Status:** Operational 🟢 | **Last Profile Update:** 2026</sub>
+  <p align="center">
+    <code><strong>System Status:</strong> Active</code> &nbsp; | &nbsp; <code><strong>Commitment:</strong> Full-Stack Logic</code>
+    <br />
+    <br />
+    <sub>Automated Profile Update © 2026 | Built for Performance</sub>
+  </p>
 </div>
