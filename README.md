@@ -56,23 +56,40 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## 📊 Development Activity
+---
+
+## 📊 Engineering Metrics & Productivity
+
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Hassan66&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseeb-Hassan66&theme=tokyonight" width="100%" alt="Profile Summary" />
+</div>
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/Main_Language-Java-orange?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Secondary-C%2B%2B-blue?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Database-SQL-db7093?style=flat-square&logo=mysql" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haseeb-Hassan66&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-graph?username=Haseeb-Hassan66&theme=tokyonight" width="49%" />
+</div>
 
+<br/>
+
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Haseeb-Hassan66/Haseeb-Hassan66/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haseeb-Hassan66&theme=tokyonight&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <p align="center">
-    <i>"Logic is the beginning of wisdom, not the end."</i>
+    <b>System Status:</b> Operational 🟢 | <b>Availability:</b> Open for Collaborations
+    <br />
+    <sub>"The best way to predict the future is to invent it."</sub>
   </p>
 </div>
