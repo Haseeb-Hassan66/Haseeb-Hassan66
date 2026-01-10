@@ -58,17 +58,21 @@ I am currently deepening my expertise in system-level programming and applicatio
 
 ---
 
-## 📈 Activity & Impact
+## 📈 Platform Metrics
 <div align="center">
-  <img src="https://opencast.vercel.app/Haseeb-Hassan66/skyline" width="100%" alt="Contribution Skyline" />
+  
+  <img src="https://img.shields.io/badge/Top_Language-Java-orange?style=flat-square&logo=openjdk&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Logic-C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Data-SQL-db7093?style=flat-square&logo=mysql&logoColor=white" height="25" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Hassan66&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <p align="center">
-    <b>System Status:</b> Operational 🟢 | <b>Availability:</b> Open for Collaborations
-    <br />
-    <sub>"The best way to predict the future is to invent it."</sub>
-  </p>
+  <sub>**System Status:** Operational 🟢 | **Last Profile Update:** 2026</sub>
 </div>
