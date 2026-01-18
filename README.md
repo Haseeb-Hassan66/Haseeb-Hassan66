@@ -21,7 +21,8 @@ Computer Science student in the **fourth semester** at **Sukkur IBA University**
 
 Currently exploring **full-stack development** and **AI/ML fundamentals**. Experienced in building **semester projects and personal tools** demonstrating strong **problem-solving, OOP design, and database integration skills**.  
 
-Focused on creating **scalable, modular, and user-friendly applications**, with a drive to grow into software development and AI/ML roles.
+Focused on creating **scalable, modular, and user-friendly applications**, with a drive to grow into software development and AI/ML roles.  
+*Currently learning Python and exploring AI/ML.*
 
 ---
 
@@ -34,7 +35,7 @@ Focused on creating **scalable, modular, and user-friendly applications**, with 
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Swing](https://img.shields.io/badge/Java_Swing-2C2255?style=for-the-badge) | Data Structures & Algorithms |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Raylib](https://img.shields.io/badge/Raylib-8C1C13?style=for-the-badge) | Object-Oriented Design (OOP) |
 | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | JDBC & Database Connectivity | Software Engineering & GUI Development |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | JavaFX | Modular & Clean Code Practices |
+|  | JavaFX | Modular & Clean Code Practices |
 
 </div>
 
@@ -72,12 +73,17 @@ Two-player board game with dice roll, snake/ladder logic, save/load functionalit
 ERP-like tool for students to track semester-wise performance, compute GPA/CGPA, and apply university grading rules dynamically.  
 
 ---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66theme=Light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&theme=Light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Haseeb-Hassan66&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ---
 
