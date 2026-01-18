@@ -87,14 +87,9 @@ ERP-like tool for students to track semester-wise performance, compute GPA/CGPA,
 
 ---
 
-## 💻 Tech Stack Badges
+## 💻 Tech Stack Badges:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-0078D7.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Raylib](https://img.shields.io/badge/Raylib-2C2C54.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-0078D7.svg?style=for-the-badge&logo=java&logoColor=white) ![Raylib](https://img.shields.io/badge/Raylib-2C2C54.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
