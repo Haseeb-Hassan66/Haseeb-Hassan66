@@ -81,9 +81,11 @@ ERP-like tool for students to track semester-wise performance, compute GPA/CGPA,
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&theme=Light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Haseeb-Hassan66&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Haseeb-Hassan66&theme=light&hide_border=false&show_icons=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=Haseeb-Hassan66&theme=light&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Hassan66&theme=light&hide_border=false&layout=compact)
 
 ---
 
