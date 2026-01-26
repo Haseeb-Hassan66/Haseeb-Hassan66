@@ -43,32 +43,7 @@ Focused on creating **scalable, modular, and user-friendly applications**, with 
 
 ## 🚀 Projects
 
-### 1. **Java E-Ticket Reservation System**
-**Technologies:** Java, Swing, JDBC, MySQL, OOP, Data Structures  
-A digital ticket booking system for buses and trains with route management, efficient reservation flow, and user-friendly interface.  
-
----
-
-### 2. **Banking-App-Java**
-**Technologies:** Java, Swing, AWT, JDBC, MySQL  
-A simple banking system with user registration, login, deposit/withdrawal, balance inquiry, and transaction history.  
-**Project Structure:** controller | database | model | user | view | Main.java  
-
----
-
-### 3. **Java Calculator**
-**Technologies:** Java, Swing  
-A GUI-based calculator performing standard arithmetic operations with real-time display and error handling.  
-
----
-
-### 4. **Snakes and Ladders Game**
-**Technologies:** C++, Raylib  
-Two-player board game with dice roll, snake/ladder logic, save/load functionality, and GUI interface.  
-
----
-
-### 5. **UniGrade – Configurable CGPA & Academic Record System** *(In Progress)*  
+### 1. **UniGrade – Configurable CGPA & Academic Record System** *(In Progress)*  
 **Technologies:** Java, JavaFX, SQLite  
 ERP-like tool for students to track semester-wise performance, compute GPA/CGPA, and apply university grading rules dynamically.  
 
